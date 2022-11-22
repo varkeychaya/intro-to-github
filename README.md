@@ -7,7 +7,7 @@
 
 # Introduction to GitHub
 
-This is a quick test
+This is a quick jest
 
 _Get started using GitHub in less than an hour._
 
