@@ -7,6 +7,8 @@
 
 # Introduction to GitHub
 
+This is a quick test
+
 _Get started using GitHub in less than an hour._
 
 <!-- 
